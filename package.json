@@ -1,0 +1,27 @@
+{
+  "name": "background-removal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@imgly/background-removal": "^1.5.5",
+    "@imgly/background-removal-node": "^1.4.5",
+    "@xixiyahaha/rembg-node": "^2.2.0",
+    "axios": "^1.7.5",
+    "canvas": "^2.11.2",
+    "express": "^4.19.2",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "https-proxy-agent": "^7.0.5",
+    "multer": "^1.4.5-lts.1",
+    "node-fetch": "^3.3.2",
+    "rembg-node": "^2.0.2",
+    "sharp": "^0.33.5"
+  }
+}
